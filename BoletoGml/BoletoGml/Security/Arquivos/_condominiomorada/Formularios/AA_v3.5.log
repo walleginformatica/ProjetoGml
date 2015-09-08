@@ -1,0 +1,6 @@
+20150724-14:38:10.578 00001C14 - ERROR: ERROR 0 0 in TransportTCP2::ReadExact()#2 in Vr::run_un
+20150724-14:46:05.715 00001574 - ERROR: ERROR 0 0 in TransportTCP2::ReadExact()#2 in Vr::run_un
+20150724-14:52:20.978 000013A4 - ERROR: ERROR 0 0 in TransportTCP2::ReadExact()#2 in Vr::run_un
+20150727-09:55:58.379 000012D0 - ERROR: Error {12029} occured while connecting to server "http://rl.ammyy.com" 
+20150727-10:05:58.413 00000408 - ERROR: Error {12029} occured while connecting to server "http://rl.ammyy.com" 
+20150727-10:06:49.721 00001388 - ERROR: Error {12029} occured while connecting to server "http://rl.ammyy.com" 

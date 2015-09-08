@@ -1,0 +1,5 @@
+C:\PROJETOS-WESLEY\BoletoGml\BoletoGml\bin\BoletoGml.dll
+C:\PROJETOS-WESLEY\BoletoGml\BoletoGml\bin\BoletoGml.pdb
+C:\PROJETOS-WESLEY\BoletoGml\BoletoGml\bin\Boleto.Net.dll
+C:\PROJETOS-WESLEY\BoletoGml\BoletoGml\obj\Release\BoletoGml.dll
+C:\PROJETOS-WESLEY\BoletoGml\BoletoGml\obj\Release\BoletoGml.pdb

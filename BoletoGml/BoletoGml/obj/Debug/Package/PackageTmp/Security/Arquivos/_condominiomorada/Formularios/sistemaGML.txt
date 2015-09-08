@@ -1,0 +1,26 @@
+- consultar morador
+	- deletar
+	- alterar
+	- incluir
+
+boleto
+
+- Consulta Boleto
+	- cada morador
+	- condominio
+	- todos
+- Deletar boleto
+	- cada morador
+	- condominio
+	- todos
+- incluir Boleto
+	- cada morador
+	- condominio
+	- todos
+- Contas a pagar
+	- add conta ( Valor | DataVenci | tipoPag | Pago Obs |)
+- Contas A Receber
+	- Listar contas
+	- Consultar ALL
+	- Receber
+	- alterar

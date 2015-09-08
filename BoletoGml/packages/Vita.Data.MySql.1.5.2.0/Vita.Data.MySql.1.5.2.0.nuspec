@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Vita.Data.MySql</id>
+    <version>1.5.2.0</version>
+    <authors>Roman Ivantsov</authors>
+    <owners>Roman Ivantsov</owners>
+    <licenseUrl>http://vita.codeplex.com/license</licenseUrl>
+    <projectUrl>http://vita.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>VITA ORM driver for MySql.</description>
+    <releaseNotes />
+    <copyright>Copyright Roman Ivantsov 2015</copyright>
+    <tags>VITA ORM MySql</tags>
+    <dependencies>
+      <dependency id="Vita" version="1.5.2.0" />
+      <dependency id="MySql.Data" version="6.9.6" />
+    </dependencies>
+  </metadata>
+</package>
